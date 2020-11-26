@@ -571,9 +571,8 @@ section {
 }
 
 #about .about-container .background {
-  min-height: 300px;
-  background: url(../img/huyserProjects-About1.jpeg) center no-repeat;
-  margin-bottom: 10px;
+  background: url(../img/huyserProjects7.png) no-repeat;
+  background-size: contain;
 }
 
 #about .about-container .content {
